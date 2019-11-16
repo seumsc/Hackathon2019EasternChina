@@ -27,7 +27,13 @@ tags:
 
   <iframe width="640px" height="480px" src="//player.bilibili.com/player.html?aid=74114633&cid=126788212&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+# 三期资料
 
+* [HackWithAzure](https://github.com/microsoft/hackwithazure)
+
+* [人工智能零基础上手](https://www.bilibili.com/video/av75495976/)
+
+  <iframe width="640px" height="480px" src="//player.bilibili.com/player.html?aid=75495976&cid=129330180&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 # 联动赛事
 
