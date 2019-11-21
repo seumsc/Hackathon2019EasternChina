@@ -2,7 +2,7 @@
 title: 联系我们
 date: 2019-10-01 00:00:00
 tags:
-	- contact
+	- contract
 ---
 ![1570891020738](/rule/1570891020738.png)
 
@@ -13,7 +13,4 @@ tags:
 * 一般答疑、参赛、找队友
   * Hackathon 华东 @ 2019 参赛选手群群号：945711280
 * 赞助商、承办方、特殊问题
-  * 东南大学微软学生俱乐部公邮：[MSC_SEU@outlook.com](mailto:MSC_SEU@outlook.com)(12h内回复)
-  * 总负责人QQ、mail: WakamiyaEve@foxmail.com (12h内回复)
-* 特殊紧急情况
-  * TEL: 176·1258·2337
+  * 东南大学微软学生俱乐部公邮：[MSC_SEU@outlook.com](mailto:MSC_SEU@outlook.com)

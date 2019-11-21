@@ -1,13 +1,8 @@
 ---
-
 title: 现场讲座
-
 date: 2019-11-21 00:00:00
-
 tags:
-
   - Lecture
-
 ---
 
 # Day 1
