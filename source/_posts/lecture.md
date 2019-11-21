@@ -1,4 +1,4 @@
-\---
+---
 
 title: 现场讲座
 
@@ -6,9 +6,9 @@ date: 2019-11-21 00:00:00
 
 tags:
 
-  \- Lecture
+  - Lecture
 
-\---
+---
 
 # Day 1
 
@@ -25,4 +25,6 @@ tags:
 | 微软黑客松项目分享             | Simon Wu 微软DevRel资深工程师 | 09:30    | 45min    | 15min    |
 | Microsoft Learn 101 和学习反馈 | MS Learn产品组                | 10:30    | -        | -        |
 
->    Microsoft Learn 101 和学习反馈 诚邀参与MS Learn挑战赛的同学参与反馈和讨论
+> Microsoft Learn 101 和学习反馈 诚邀参与MS Learn挑战赛的同学参与反馈和讨论
+
+> 讲座地点届时会在选手群和此处更新
