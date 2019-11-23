@@ -6,6 +6,10 @@ tags:
 ---
 ![1570891020738](/rule/1570891020738.png)
 
+# 赛中资料
+
+* [相关资源链接](/learn/RememberURLs.pptx)
+
 # 一期资料
 
 * [MS Learn 介绍 - EdiWang](https://www.bilibili.com/video/av73104255/)
